@@ -31,6 +31,12 @@ python e1_print.py "Flour" --copies 3 --print
 
 `preview.png` shows the label enlarged, with the edges the print head can't reach shaded and a 1 mm ruler.
 
+## Graphical app
+
+Prefer a label designer? [GopherTLI/niimblue](https://github.com/GopherTLI/niimblue) (branch `e1-support`)
+is a fork of [NiimBlue](https://github.com/MultiMote/niimblue) with E1 support: connect over Web Bluetooth
+in Chrome/Edge, design with text, images, QR codes and barcodes, and print.
+
 ## Tools
 
 | File | What it does |
