@@ -33,7 +33,7 @@ python e1_print.py "Flour" --copies 3 --print
 
 ## Graphical app
 
-Prefer a label designer? [GopherTLI/niimblue](https://github.com/GopherTLI/niimblue) (branch `e1-support`)
+Prefer a label designer? [GopherTLI/niimblue-e1](https://github.com/GopherTLI/niimblue-e1) (branch `e1-support`)
 is a fork of [NiimBlue](https://github.com/MultiMote/niimblue) with E1 support: connect over Web Bluetooth
 in Chrome/Edge, design with text, images, QR codes and barcodes, and print.
 
