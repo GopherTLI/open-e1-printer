@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+label.png
+preview.png
+previews/
+*.log
+*.apk
+bugreport*/
